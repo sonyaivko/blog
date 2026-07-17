@@ -1,5 +1,6 @@
 ---
 title: "Sonya Ivkovic"
+lead: "computer science at umass amherst"
 ---
 ##### computer science at umass amherst 
 

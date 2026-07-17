@@ -1,4 +1,6 @@
-
 public/
 assets/
 
+# OS 
+.DS_Store 
+.hugo_build.lock 
